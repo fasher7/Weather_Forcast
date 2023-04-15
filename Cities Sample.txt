@@ -1,0 +1,39 @@
+Dhaka
+"lat": 23.7644025
+"lon": 90.389015
+https://api.openweathermap.org/data/2.5/forecast?lat=23.7644025&lon=90.389015&appid=ab0eb8cb65ecc913f2c9bd55554ba5ec
+
+Chittagong
+"lat": 22.3336887
+"lon": 91.8342162
+https://api.openweathermap.org/data/2.5/forecast?lat=22.3336887&lon=91.8342162&appid=ab0eb8cb65ecc913f2c9bd55554ba5ec
+
+Sylhet
+"lat": 24.89922
+"lon": 91.8685271
+https://api.openweathermap.org/data/2.5/forecast?lat=24.89922&lon=91.8685271&appid=ab0eb8cb65ecc913f2c9bd55554ba5ec
+
+Khulna
+"lat": 22.8171664
+"lon": 89.563759
+https://api.openweathermap.org/data/2.5/forecast?lat=22.8171664&lon=89.563759&appid=ab0eb8cb65ecc913f2c9bd55554ba5ec
+
+Mymensingh
+"lat": 24.7482129
+"lon": 90.4099158
+https://api.openweathermap.org/data/2.5/forecast?lat=24.7482129&lon=90.4099158&appid=ab0eb8cb65ecc913f2c9bd55554ba5ec
+
+Barishal
+"lat": 22.7046314
+"lon": 90.3711417
+https://api.openweathermap.org/data/2.5/forecast?lat=22.7046314&lon=90.37114178&appid=ab0eb8cb65ecc913f2c9bd55554ba5ec
+
+Rangpur
+"lat": 25.7569808
+"lon": 89.241459
+https://api.openweathermap.org/data/2.5/forecast?lat=25.7569808&lon=89.241459&appid=ab0eb8cb65ecc913f2c9bd55554ba5ec
+
+Rahshahi
+"lat": 24.3715513
+"lon": 88.5921038
+https://api.openweathermap.org/data/2.5/forecast?lat=24.3715513&lon=88.5921038&appid=ab0eb8cb65ecc913f2c9bd55554ba5ec
